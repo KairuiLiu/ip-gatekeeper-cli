@@ -11,7 +11,7 @@ npm install -g ipgatekeeper
 ## Usage
 
 ```bash
-ipgatekeeper --country JP -- codex
+ipgatekeeper --country JP -- claude
 ipgatekeeper -c US -i 10 -- npm start
 ```
 
@@ -28,7 +28,7 @@ ipgatekeeper -c US -i 10 -- npm start
 For convenience:
 
 ```bash
-alias codex='ipgatekeeper --country JP -- codex'
+alias claude='ipgatekeeper --country JP -- claude'
 ```
 
 ## How it works
