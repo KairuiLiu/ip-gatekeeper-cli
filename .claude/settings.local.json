@@ -5,7 +5,8 @@
       "Bash(pnpm install:*)",
       "Bash(pnpm add:*)",
       "Bash(git init:*)",
-      "Bash(pnpm lint:*)"
+      "Bash(pnpm lint:*)",
+      "Bash(pnpm:*)"
     ]
   }
 }
