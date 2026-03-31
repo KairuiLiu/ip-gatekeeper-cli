@@ -6,7 +6,8 @@
       "Bash(pnpm add:*)",
       "Bash(git init:*)",
       "Bash(pnpm lint:*)",
-      "Bash(pnpm:*)"
+      "Bash(pnpm:*)",
+      "WebFetch(domain:registry.npmjs.org)"
     ]
   }
 }
